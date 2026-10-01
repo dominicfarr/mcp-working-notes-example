@@ -16,3 +16,13 @@ pip install mcp==1.16.0 fastmcp==2.12.5
 ```bash
 python mcp_client.py mcp_server.py
 ```
+
+### Test
+```bash
+call
+Tool name: echo
+Arguments (as JSON, for example, {"text": "hello"}): 
+{"text": "Hello MCP!"}
+
+Result: Echo: Hello MCP!
+```
